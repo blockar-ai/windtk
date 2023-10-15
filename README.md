@@ -9,13 +9,9 @@ A simple **functional** open source project combining the **power** of Tailwindc
 
 **What's Happening Now**
 
-[TOCM]
-
-[TOC]
-
-#Build Button an Tailwindcss
-##Build Label an Tailwidncss
-###Build Entry__(input)__ an Tailwindcss
+>Build Button an Tailwindcss
+>Build Label an Tailwidncss
+>Build Entry__(input)__ an Tailwindcss
 
 
->You can enhance the project and use it to develop Faster Labtop applications
+>**You can enhance the project and use it to develop Faster Labtop applications**
