@@ -15,3 +15,11 @@ A simple **functional** open source project combining the **power** of Tailwindc
 
 
 >**You can enhance the project and use it to develop Faster Labtop applications**
+
+`$ Build By Run`
+
+# Install Pip
+
+```python
+pip install windtk
+```
