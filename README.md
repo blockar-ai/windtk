@@ -1,7 +1,7 @@
 # windtk
 Create fast and beautiful interfaces with tailwindcss and tkinter
 
-![](/assets/windtk.png)
+![](/assets/windtk.png =100x100)
 
 
 # Tailwindcss + Tkinter = Wind.tk
@@ -16,11 +16,7 @@ A simple **functional** open source project combining the **power** of Tailwindc
 
 #Build Button an Tailwindcss
 ##Build Label an Tailwidncss
-###Build Entry>(input)> an Tailwindcss
+###Build Entry__(input)__ an Tailwindcss
 
 
-~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
-*Italic*      _Italic_
-**Emphasis**  __Emphasis__
-***Emphasis Italic*** ___Emphasis Italic___
-
+>You can enhance the project and use it to develop Faster Labtop applications
