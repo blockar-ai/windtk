@@ -1,8 +1,7 @@
 # windtk
 Create fast and beautiful interfaces with tailwindcss and tkinter
 
-![](/assets/windtk.png =100x100)
-
+[<img src="/assets/windtk.png" width="100"/>](/assets/windtk.png)
 
 # Tailwindcss + Tkinter = Wind.tk
 A simple **functional** open source project combining the **power** of Tailwindcss and Tkinter can be developed and left entirely to the Community.
